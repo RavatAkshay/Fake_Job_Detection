@@ -100,7 +100,6 @@ The trained model successfully classifies job postings as *Fraudulent* or *Legit
 Fake-Job-Detection/
 │
 ├── Fake_Job_Detection.ipynb
-├── Fake_Job_Detection.csv
 ├── README.md
 
 
